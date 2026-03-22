@@ -1,0 +1,11 @@
+From: security@paypa1.com
+Subject: URGENT Action Required: Account Suspended
+
+Dear User,
+Your account has been locked due to suspicious activity.
+Please verify now to restore your access.
+Reply immediately!
+
+Login using our secure IP server: http://192.168.1.10/login
+Or visit our alternative security portal: http://paypa1-security-login.com
+Here is a normal link to our terms: https://www.google.com/policies
